@@ -1,0 +1,30 @@
+{
+  "name": "google-books-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "loader": "^2.1.1",
+    "mongoose": "^5.9.10",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.3"
+  },
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanishahowell/google-books-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanishahowell/google-books-search/issues"
+  },
+  "homepage": "https://github.com/tanishahowell/google-books-search#readme"
+}
